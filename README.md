@@ -1,15 +1,11 @@
-To-Do List Application (React.js)
-This project is a simple and user-friendly To-Do List application built using React.js. The app allows users to create, view, edit, and delete tasks to manage their daily activities effectively. It demonstrates key features of React such as state management, component hierarchy, and event handling.
+To-Do List Application
+This is a simple To-Do List application built with React.js. The app allows users to create, read, update, and delete tasks. It's a perfect project for learning the fundamentals of React, including component structure, state management, and handling events.
 
-Key Features:
-Add New Tasks: Users can input and add new tasks to the list.
-Mark as Completed: Tasks can be marked as completed, with a visual indicator for completed items.
-Edit Existing Tasks: Users can edit tasks if they need to update the description or details.
-Delete Tasks: Tasks can be removed from the list.
-Task Filtering: View tasks by all, completed, or pending status.
-Responsive Design: The application is responsive and adjusts to various screen sizes.
-Local Storage Support: The app saves tasks to the browser's local storage, so tasks persist even after the page is refreshed.
+Features:
+• Add a Task: Users can add new tasks to the list.
+• Delete a Task: Users can remove tasks when they're no longer needed.
+• Move a Tasj: Users can move a task up or down.
+
+
 Technologies Used:
-React.js: Core framework for building the user interface.
-CSS: Styling for a clean and modern interface.
-LocalStorage API: To store tasks data locally in the browser.
+• React.js: A JavaScript library for building user interfaces.
